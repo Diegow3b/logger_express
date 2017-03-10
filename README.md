@@ -1,5 +1,8 @@
 # logger_express
 Logger for express Server
+### Example
+![alt tag](https://github.com/Diegow3b/logger_express/blob/master/logger.png)
+
 ### Dependencies
 node
 express
