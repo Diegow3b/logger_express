@@ -1,5 +1,4 @@
-var pad = (num) => {
-    let size = 2;
+var pad = (num, size=2) => {
     var s = num+"";
     while (s.length < size) s = "0" + s;
     return s;
