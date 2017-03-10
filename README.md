@@ -1,6 +1,12 @@
 # logger_express
 Logger for express Server
-
+### Dependencies
+node
+express
+```shell
+npm init
+npm install express --save
+```
 ### Usage
 1 - Download and place the files in your project root folder
 
