@@ -24,3 +24,16 @@ And run your server
 ```shell
 >node app.js
 ```
+
+### Tip
+Strongly recommend use nodemon as watcher server
+
+Install Globally
+```shell
+> npm install -g nodemon
+```
+
+Then run to your project folder and activate it
+```shell
+> nodemon
+```
